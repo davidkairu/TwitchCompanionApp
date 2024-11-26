@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+
+# Swift Packages
+.swiftpm
+Packages/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Logs
+*.log
+
+# User-specific files
+xcuserdata/
+
